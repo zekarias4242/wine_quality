@@ -23,6 +23,7 @@ Follow these steps to use the Wine Quality Classifier:
     ```bash
     git clone https://github.com/yourusername/wine_quality.git
     cd wine_quality
+    cd src
     ```
 
 2. Run the classifier:

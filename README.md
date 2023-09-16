@@ -21,7 +21,7 @@ Follow these steps to use the Wine Quality Classifier:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/wine_quality.git
+    git clone https://github.com/zekarias4242/wine_quality.git
     cd wine_quality
     cd src
     ```
